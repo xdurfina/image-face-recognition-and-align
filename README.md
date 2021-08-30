@@ -4,5 +4,5 @@
 * Dataset normalization (eyes alignment, image resizing/cropping) -> faces folder 
 * Generating average face from normalized dataset
 * BONUS: Face swap 
-* 
+
 Dataset: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
